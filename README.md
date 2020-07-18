@@ -1,12 +1,12 @@
 Natural Selection Simulator
 Inspired by a video on Primer's youtube channel: https://www.youtube.com/watch?v=0ZGbIKd0XrM
 
-
+![Cool gif](./naturalSelectionGif.gif)
 
 Overview:
 
 This is a basic simulation of a population with 3 changing traits: size, speed, and sense. 
-In this simulation, distinct groups of creatures will form from a common ancestor. Each group will look different, and have slightly different genetic abilities.
+In this world, distinct groups of creatures will form from a common ancestor. Each group will look different, and have slightly different genetic abilities.
 Over time, different groups will become genetically divergent enough to no longer be able to produce viable offspring with eachother. When this happens, distinct species have formed :)
 
 Game Rules:
@@ -23,9 +23,9 @@ This was just a fun weekend project - some day I would love to come back to it a
 
 Traits:
 
-Increased size means creatures are able to eat more food. Larger creatures are more red.
-Increased speed means creatures are able to get to food faster. Faster creatures are more green.
-Increased sense means creatures are able to see food in a larger radius. Sensitive creatures are more blue.
+* Increased size means creatures are able to eat more food. Larger creatures are more red.
+* Increased speed means creatures are able to get to food faster. Faster creatures are more green.
+* Increased sense means creatures are able to see food in a larger radius. Sensitive creatures are more blue.
 
 All three traits also come with an energy cost. For instance, very large, fast creatures will expend all their calories very quickly. 
 A creature that runs out of energy cannot search for food for the rest of the day.
