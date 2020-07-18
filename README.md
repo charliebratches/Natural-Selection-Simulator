@@ -9,6 +9,8 @@ This is a basic simulation of a population with 3 changing traits: size, speed, 
 In this world, distinct groups of creatures will evolve from a common ancestor. Each group will look different, and have slightly different genetic abilities.
 Over time, the population will become genetically diverse enough that groups will be unable to interbreed. When genetically distinct groups cannot interbreed, speciation has occurred.
 
+This was just a fun weekend project and a complete over-simplification of evolutionary biology - some day I would love to come back to this and expand the complexity of the simulation!
+
 Game Rules:
 
 Each day, the population spawns in the center of a field of green pellets. A pellet is a unit of food that is essential for survival, reproduction, and ultimately speciation.
@@ -17,8 +19,6 @@ produce offspring, they must be within a genetic range called a "speciation amou
 Each time an offspring is produced, a random mutation occurs to one of their 3 traits - size, speed, & sense.
 
 Over time, speciation occurs in this simulation - meaning that visually & genetically distinct groups form that cannot inter-breed.
-
-This was just a fun weekend project - some day I would love to come back to it and expand the complexity of the simulation!
 
 Traits:
 
